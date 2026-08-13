@@ -1,0 +1,452 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick gander at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Canvas"
+    },
+    {
+      "description": "\"Added in HTML5, the HTML <canvas> element can be used to draw graphics via scripting in JavaScript. For example, it can be used to draw graphs, make photo compositions, create animations or even do real-time video processing or rendering.\" by Mozilla Developer Network",
+      "items": [],
+      "title": "Definition"
+    },
+    {
+      "description": "Some good examples about creation with canvas.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tsParticles examples",
+          "description": "Collection of tsParticles particles animations samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:05:44Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelCraft",
+          "description": "• A pixel-art editor made using canvas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-16T19:39:36Z",
+            "owner": "rgab1508",
+            "repo": "PixelCraft",
+            "stars": 1505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trigonoparty!",
+          "description": "[show me the code] • Simple trigonometry visualisation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-14T19:26:25Z",
+            "owner": "ramesaliyev",
+            "repo": "trigonoparty",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distance Field Waves",
+          "description": "[show me the code] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-02-22T22:22:54Z",
+            "owner": "kevinroast",
+            "repo": "webglshaders",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloth Effect",
+          "description": "[show me the code] • A cloth 3D effect fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-10T15:54:14Z",
+            "owner": "raphamorim",
+            "repo": "canvas-experiments",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colorful Particles",
+          "description": "[show me the code] • Experiment show how to generates random particles. Very simple code for assimilate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-10T15:54:14Z",
+            "owner": "raphamorim",
+            "repo": "canvas-experiments",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draw Table",
+          "description": "[show me the code] • A simple example about events using canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-10T15:54:14Z",
+            "owner": "raphamorim",
+            "repo": "canvas-experiments",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inception",
+          "description": "[show me the code] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-10T15:54:14Z",
+            "owner": "raphamorim",
+            "repo": "canvas-experiments",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raining Day",
+          "description": "[show me the code] • Raindrops using canvas. It's Neatnait Canvas Rain fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-10T15:54:14Z",
+            "owner": "raphamorim",
+            "repo": "canvas-experiments",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix Animation",
+          "description": "[show me the code] • A Matrix Rain animation using canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T01:57:41Z",
+            "owner": "knackstedt",
+            "repo": "matrix-animation",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just Canvas",
+          "description": "[show me the code]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-30T18:01:54Z",
+            "owner": "raphamorim",
+            "repo": "just-canvas",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Time Lapse Effect",
+          "description": "[show me the code] • An example about creating a star time-lapse sky using canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-17T05:02:36Z",
+            "owner": "fralonra",
+            "repo": "star-time-lapse",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "d3",
+          "description": "(or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-28T14:43:01Z",
+            "owner": "d3",
+            "repo": "d3",
+            "stars": 113448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chart.js",
+          "description": "is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T21:17:31Z",
+            "owner": "chartjs",
+            "repo": "Chart.js",
+            "stars": 67639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper.js",
+          "description": "Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T00:58:54Z",
+            "owner": "paperjs",
+            "repo": "paper.js",
+            "stars": 15064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konva",
+          "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:00:38Z",
+            "owner": "konvajs",
+            "repo": "konva",
+            "stars": 14681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zDog",
+          "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T21:43:53Z",
+            "owner": "metafizzy",
+            "repo": "zdog",
+            "stars": 10651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zrender",
+          "description": "A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:07:07Z",
+            "owner": "ecomfe",
+            "repo": "zrender",
+            "stars": 6300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sketch",
+          "description": "Cross-Platform JavaScript Creative Coding Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-16T03:41:59Z",
+            "owner": "soulwire",
+            "repo": "sketch.js",
+            "stars": 4124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proton",
+          "description": "is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-06T08:19:03Z",
+            "owner": "drawcall",
+            "repo": "Proton",
+            "stars": 2478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Javascript-Voronoi",
+          "description": "A Javascript implementation of Fortune's algorithm to compute Voronoi cells",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-25T04:39:19Z",
+            "owner": "gorhill",
+            "repo": "Javascript-Voronoi",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Origami.js",
+          "description": "JS Lib to redesign canvas API interface",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-30T06:54:39Z",
+            "owner": "raphamorim",
+            "repo": "origami.js",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iio.js",
+          "description": "A javascript library that speeds the creation and deployment of HTML5 Canvas applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-06T02:10:25Z",
+            "owner": "sbiermanlytle",
+            "repo": "iioEngine",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visualize",
+          "description": "is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-08-29T19:45:47Z",
+            "owner": "filamentgroup",
+            "repo": "jQuery-Visualize",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textmode.js",
+          "description": "is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T21:04:08Z",
+            "owner": "humanbydefinition",
+            "repo": "textmode.js",
+            "stars": 159
+          }
+        }
+      ],
+      "title": "To draw using canvas"
+    },
+    {
+      "description": "Where to discover more about Canvas.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@mrdoob",
+          "description": "Creator of three.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T22:51:51Z",
+            "owner": "mrdoob",
+            "repo": "three.js",
+            "stars": 114500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@soulwire",
+          "description": "Creator of sketch.js and actively creating and sharing canvas/WebGL experiments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-16T03:41:59Z",
+            "owner": "soulwire",
+            "repo": "sketch.js",
+            "stars": 4124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jeresig",
+          "description": "Creator of Processing.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-04T22:20:56Z",
+            "owner": "jeresig",
+            "repo": "processing-js",
+            "stars": 1688
+          }
+        }
+      ],
+      "title": "Twitter"
+    },
+    {
+      "description": "The content of this project itself is licensed under the Creative Commons Attribution 3.0 license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:56:26.975Z",
+    "original_repository": "raphamorim/awesome-canvas",
+    "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
+    "enhanced_repository": "enhansome/enhansome-canvas",
+    "enhanced_repository_description": null,
+    "title": "Awesome Canvas with stars"
+  }
+}
