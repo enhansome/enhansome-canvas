@@ -43,7 +43,7 @@
             "last_commit": "2025-03-16T19:39:36Z",
             "owner": "rgab1508",
             "repo": "PixelCraft",
-            "stars": 1505
+            "stars": 1506
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113456
+            "stars": 113459
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67646
+            "stars": 67647
           }
         },
         {
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:28:54Z",
+            "last_commit": "2026-08-15T13:55:20Z",
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14683
+            "stars": 14686
           }
         },
         {
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:21:34Z",
+            "last_commit": "2026-08-15T22:21:24Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114523
+            "stars": 114528
           }
         },
         {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:34:40.525Z",
+    "last_updated": "2026-08-15T23:33:24.414Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
     "enhanced_repository": "enhansome/enhansome-canvas",
