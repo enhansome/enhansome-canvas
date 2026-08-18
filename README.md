@@ -1,8 +1,8 @@
 # Awesome Canvas with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,985 | 🐛 102 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,411 | 🐛 102 | 📅 2026-08-18
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,503 | 🐛 16 | 🌐 Python | 📅 2026-08-16.
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,702 | 🐛 17 | 🌐 Python | 📅 2026-08-16.
 
 ## Contributing
 
@@ -77,19 +77,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### To draw using canvas
 
-* [d3](https://github.com/d3/d3) ⭐ 113,478 | 🐛 20 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,642 | 🐛 579 | 🌐 JavaScript | 📅 2026-05-27 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
+* [d3](https://github.com/d3/d3) ⭐ 113,489 | 🐛 20 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,641 | 🐛 579 | 🌐 JavaScript | 📅 2026-05-27 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,064 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23 - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
-* [Konva](https://github.com/konvajs/konva) ⭐ 14,693 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-15 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-* [zDog](https://github.com/metafizzy/zdog) ⭐ 10,651 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+* [Konva](https://github.com/konvajs/konva) ⭐ 14,696 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-15 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+* [zDog](https://github.com/metafizzy/zdog) ⭐ 10,650 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 * [zrender](https://github.com/ecomfe/zrender) ⭐ 6,299 | 🐛 370 | 🌐 TypeScript | 📅 2026-08-07 - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
-* [Sketch](https://github.com/soulwire/sketch.js) ⭐ 4,123 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 - Cross-Platform JavaScript Creative Coding Framework
-* [Proton](https://github.com/a-jie/Proton) ⭐ 2,478 | 🐛 17 | 🌐 JavaScript | 📅 2026-03-06 is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
+* [Sketch](https://github.com/soulwire/sketch.js) ⭐ 4,122 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 - Cross-Platform JavaScript Creative Coding Framework
+* [Proton](https://github.com/a-jie/Proton) ⭐ 2,477 | 🐛 17 | 🌐 JavaScript | 📅 2026-03-06 is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 * [Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) ⚠️ Archived - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
 * [Origami.js](https://github.com/raphamorim/origami.js) ⚠️ Archived - JS Lib to redesign canvas API interface
 * [iio.js](https://github.com/iioinc/iio.js) ⭐ 458 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-06 - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 * [Visualize](https://github.com/filamentgroup/jQuery-Visualize) ⚠️ Archived is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
-* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 159 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-07 is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
+* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 159 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
 * [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 * [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) is Skia's Canvas API compiled to WebAssembly, providing high-performance 2D graphics rendering for web applications.
 * [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
@@ -114,7 +114,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### For other purposes, but still use canvas
 
-* [React Canvas](https://github.com/Flipboard/react-canvas) ⭐ 13,198 | 🐛 79 | 🌐 JavaScript | 📅 2022-09-27 - High performance <canvas> rendering for React components.
+* [React Canvas](https://github.com/Flipboard/react-canvas) ⭐ 13,197 | 🐛 79 | 🌐 JavaScript | 📅 2022-09-27 - High performance <canvas> rendering for React components.
 
 ## Resources
 
@@ -138,8 +138,8 @@ Where to discover more about Canvas.
 
 ### Twitter
 
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 114,576 | 🐛 371 | 🌐 JavaScript | 📅 2026-08-17
-* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) ⭐ 4,123 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 and actively creating and sharing canvas/WebGL experiments
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 114,596 | 🐛 375 | 🌐 JavaScript | 📅 2026-08-18
+* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) ⭐ 4,122 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 and actively creating and sharing canvas/WebGL experiments
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) ⭐ 1,688 | 🐛 2 | 🌐 Java | 📅 2018-12-04
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
@@ -171,4 +171,4 @@ The content of this project itself is licensed under the [Creative Commons Attri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

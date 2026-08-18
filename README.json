@@ -208,7 +208,7 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113478
+            "stars": 113489
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67642
+            "stars": 67641
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-15T13:55:20Z",
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14693
+            "stars": 14696
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2023-07-18T21:43:53Z",
             "owner": "metafizzy",
             "repo": "zdog",
-            "stars": 10651
+            "stars": 10650
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2023-09-16T03:41:59Z",
             "owner": "soulwire",
             "repo": "sketch.js",
-            "stars": 4123
+            "stars": 4122
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-03-06T08:19:03Z",
             "owner": "drawcall",
             "repo": "Proton",
-            "stars": 2478
+            "stars": 2477
           }
         },
         {
@@ -373,7 +373,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T21:04:08Z",
+            "last_commit": "2026-08-18T17:37:49Z",
             "owner": "humanbydefinition",
             "repo": "textmode.js",
             "stars": 159
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T20:52:20Z",
+            "last_commit": "2026-08-18T20:18:18Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114576
+            "stars": 114596
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2023-09-16T03:41:59Z",
             "owner": "soulwire",
             "repo": "sketch.js",
-            "stars": 4123
+            "stars": 4122
           }
         },
         {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:35:22.997Z",
+    "last_updated": "2026-08-18T23:34:19.596Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
     "enhanced_repository": "enhansome/enhansome-canvas",
