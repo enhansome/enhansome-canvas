@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T07:05:44Z",
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8956
+                "stars": 8960
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-03-16T19:39:36Z",
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1508
+                "stars": 1510
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113500
+                "stars": 113505
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67643
+                "stars": 67649
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2024-07-23T00:58:54Z",
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15065
+                "stars": 15064
               }
             },
             {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 29011477,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T13:55:20Z",
+                "last_commit": "2026-08-20T14:05:37Z",
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14696
+                "stars": 14704
               }
             },
             {
@@ -415,10 +415,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T18:46:01Z",
+                "last_commit": "2026-08-20T21:19:26Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114616
+                "stars": 114635
               }
             },
             {
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:34:44.955Z",
+    "last_updated": "2026-08-20T23:37:55.210Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_id": 28413081,
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
