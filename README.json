@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T07:05:44Z",
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8960
+                "stars": 8961
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113538
+                "stars": 113544
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67658
+                "stars": 67660
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-20T14:05:37Z",
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14710
+                "stars": 14714
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2023-07-18T21:43:53Z",
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10649
+                "stars": 10650
               }
             },
             {
@@ -397,6 +397,28 @@
           "description": null,
           "node_type": "group",
           "title": "To draw using canvas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Canvas",
+              "description": "High performance rendering for React components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30384844,
+                "language": "JavaScript",
+                "last_commit": "2022-09-27T06:00:42Z",
+                "owner": "Flipboard",
+                "repo": "react-canvas",
+                "stars": 13198
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "For other purposes, but still use canvas"
         }
       ],
       "title": "Libraries"
@@ -415,10 +437,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T17:39:40Z",
+                "last_commit": "2026-08-24T14:02:03Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114718
+                "stars": 114746
               }
             },
             {
@@ -461,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:14.324Z",
+    "last_updated": "2026-08-24T14:08:57.897Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_id": 28413081,
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
