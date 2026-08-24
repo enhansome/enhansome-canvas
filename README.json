@@ -240,7 +240,7 @@
                 "last_commit": "2024-07-23T00:58:54Z",
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15065
+                "stars": 15066
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-20T14:05:37Z",
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14714
+                "stars": 14715
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2023-07-18T21:43:53Z",
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10650
+                "stars": 10651
               }
             },
             {
@@ -437,10 +437,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:02:03Z",
+                "last_commit": "2026-08-24T20:14:45Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114746
+                "stars": 114757
               }
             },
             {
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:57.897Z",
+    "last_updated": "2026-08-24T23:33:38.283Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_id": 28413081,
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
