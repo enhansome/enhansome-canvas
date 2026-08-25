@@ -210,7 +210,7 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113544
+                "stars": 113545
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-20T14:05:37Z",
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14715
+                "stars": 14720
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2023-07-18T21:43:53Z",
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10651
+                "stars": 10650
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2022-09-27T06:00:42Z",
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13198
+                "stars": 13199
               }
             }
           ],
@@ -437,10 +437,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:14:45Z",
+                "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114757
+                "stars": 114766
               }
             },
             {
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:33:38.283Z",
+    "last_updated": "2026-08-25T05:59:00.638Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_id": 28413081,
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
