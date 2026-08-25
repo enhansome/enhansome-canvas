@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T07:05:44Z",
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8961
+                "stars": 8963
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-03-16T19:39:36Z",
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1513
+                "stars": 1514
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113545
+                "stars": 113551
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67660
+                "stars": 67662
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2024-07-23T00:58:54Z",
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15066
+                "stars": 15068
               }
             },
             {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 29011477,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:05:37Z",
+                "last_commit": "2026-08-25T14:48:57Z",
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14720
+                "stars": 14722
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-07T18:07:07Z",
                 "owner": "ecomfe",
                 "repo": "zrender",
-                "stars": 6301
+                "stars": 6302
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2022-08-29T19:45:47Z",
                 "owner": "filamentgroup",
                 "repo": "jQuery-Visualize",
-                "stars": 350
+                "stars": 349
               }
             },
             {
@@ -387,7 +387,7 @@
                 "archived": false,
                 "id": 1019649473,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:26:54Z",
+                "last_commit": "2026-08-25T23:09:21Z",
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
                 "stars": 160
@@ -437,10 +437,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T02:07:23Z",
+                "last_commit": "2026-08-25T15:33:57Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114766
+                "stars": 114784
               }
             },
             {
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:00.638Z",
+    "last_updated": "2026-08-25T23:35:58.747Z",
     "original_repository": "raphamorim/awesome-canvas",
     "original_repository_id": 28413081,
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
