@@ -1,8 +1,8 @@
 # Awesome Canvas with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,288 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,305 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,377 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
 
 ## Contributing
 
@@ -77,8 +77,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### To draw using canvas
 
-* [d3](https://github.com/d3/d3) ⭐ 113,563 | 🐛 21 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,666 | 🐛 584 | 🌐 JavaScript | 📅 2026-05-27 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
+* [d3](https://github.com/d3/d3) ⭐ 113,567 | 🐛 20 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,669 | 🐛 583 | 🌐 JavaScript | 📅 2026-05-27 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,069 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23 - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [Konva](https://github.com/konvajs/konva) ⭐ 14,725 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 * [zDog](https://github.com/metafizzy/zdog) ⭐ 10,649 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
@@ -138,7 +138,7 @@ Where to discover more about Canvas.
 
 ### Twitter
 
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 114,828 | 🐛 381 | 🌐 JavaScript | 📅 2026-08-26
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 114,845 | 🐛 380 | 🌐 JavaScript | 📅 2026-08-27
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) ⭐ 4,122 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 and actively creating and sharing canvas/WebGL experiments
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) ⭐ 1,688 | 🐛 2 | 🌐 Java | 📅 2018-12-04
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
