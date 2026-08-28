@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-13T07:05:44Z",
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8966
-              }
+                "stars": 8969
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-03-16T19:39:36Z",
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1515
-              }
+                "stars": 1516
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ramesaliyev",
                 "repo": "trigonoparty",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "kevinroast",
                 "repo": "webglshaders",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "knackstedt",
                 "repo": "matrix-animation",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "raphamorim",
                 "repo": "just-canvas",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "fralonra",
                 "repo": "star-time-lapse",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             }
           ],
           "description": "Some good examples about creation with canvas.",
@@ -210,8 +222,9 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113567
-              }
+                "stars": 113573
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67669
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -240,8 +254,9 @@
                 "last_commit": "2024-07-23T00:58:54Z",
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15069
-              }
+                "stars": 15070
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "konvajs",
                 "repo": "konva",
                 "stars": 14725
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -270,8 +286,9 @@
                 "last_commit": "2023-07-18T21:43:53Z",
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10649
-              }
+                "stars": 10650
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -285,8 +302,9 @@
                 "last_commit": "2026-08-07T18:07:07Z",
                 "owner": "ecomfe",
                 "repo": "zrender",
-                "stars": 6303
-              }
+                "stars": 6304
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "soulwire",
                 "repo": "sketch.js",
                 "stars": 4122
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "drawcall",
                 "repo": "Proton",
                 "stars": 2478
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "gorhill",
                 "repo": "Javascript-Voronoi",
                 "stars": 1060
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "raphamorim",
                 "repo": "origami.js",
                 "stars": 764
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "sbiermanlytle",
                 "repo": "iioEngine",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "filamentgroup",
                 "repo": "jQuery-Visualize",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             }
           ],
           "description": null,
@@ -413,7 +438,8 @@
                 "owner": "Flipboard",
                 "repo": "react-canvas",
                 "stars": 13198
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             }
           ],
           "description": null,
@@ -437,11 +463,12 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:09:32Z",
+                "last_commit": "2026-08-28T02:46:54Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114845
-              }
+                "stars": 114865
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "soulwire",
                 "repo": "sketch.js",
                 "stars": 4122
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "jeresig",
                 "repo": "processing-js",
                 "stars": 1688
-              }
+              },
+              "first_seen": "2026-08-28T06:55:18.453Z"
             }
           ],
           "description": null,
@@ -483,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:53.719Z",
+    "last_updated": "2026-08-28T06:55:18.453Z",
     "original_repository_info": {
       "archived": false,
       "id": 28413081,
