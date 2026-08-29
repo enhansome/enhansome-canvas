@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+                "homepage": "https://particles.js.org",
                 "id": 238514517,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:05:44Z",
+                "open_issues": 22,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8969
+                "stars": 8972,
+                "topics": [
+                  "2d",
+                  "angular",
+                  "animations",
+                  "bg",
+                  "canvas",
+                  "confetti",
+                  "fireworks",
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "js",
+                  "npm",
+                  "particles",
+                  "react",
+                  "svelte",
+                  "ts",
+                  "tsparticles",
+                  "typescript",
+                  "vue",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -28,12 +54,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pixel Art Editor",
+                "homepage": "https://rgab1508.github.io/PixelCraft",
                 "id": 294734621,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-16T19:39:36Z",
+                "open_issues": 17,
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1516
+                "stars": 1516,
+                "topics": [
+                  "canvas",
+                  "canvas-api",
+                  "computer-graphics",
+                  "drawing",
+                  "editor",
+                  "image-manipulation",
+                  "pixel-art",
+                  "pixel-art-maker",
+                  "pixel-editor",
+                  "pwa"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -44,12 +86,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Trigonometry Visualisation with Pure JavaScript.",
+                "homepage": "https://ramesaliyev.com/trigonoparty",
                 "id": 151076040,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2020-01-14T19:26:25Z",
+                "open_issues": 6,
                 "owner": "ramesaliyev",
                 "repo": "trigonoparty",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "trigonometry",
+                  "trigonometry-visualisation"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -60,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL Shader demos - GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.",
+                "homepage": null,
                 "id": 31645556,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-02-22T22:22:54Z",
+                "open_issues": 0,
                 "owner": "kevinroast",
                 "repo": "webglshaders",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -76,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experiments using Canvas HTML5 technology.",
+                "homepage": null,
                 "id": 28345673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-10T15:54:14Z",
+                "open_issues": 0,
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -92,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experiments using Canvas HTML5 technology.",
+                "homepage": null,
                 "id": 28345673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-10T15:54:14Z",
+                "open_issues": 0,
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -108,12 +173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experiments using Canvas HTML5 technology.",
+                "homepage": null,
                 "id": 28345673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-10T15:54:14Z",
+                "open_issues": 0,
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -124,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experiments using Canvas HTML5 technology.",
+                "homepage": null,
                 "id": 28345673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-10T15:54:14Z",
+                "open_issues": 0,
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -140,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experiments using Canvas HTML5 technology.",
+                "homepage": null,
                 "id": 28345673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-10T15:54:14Z",
+                "open_issues": 0,
                 "owner": "raphamorim",
                 "repo": "canvas-experiments",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -156,12 +236,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matrix Animation. Easily create highly customizable JavaScript Matrix effects and use them as animated backgrounds for your website.",
+                "homepage": "https://matrix.dotglitch.dev",
                 "id": 742666768,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-08T01:57:41Z",
+                "open_issues": 0,
                 "owner": "knackstedt",
                 "repo": "matrix-animation",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "animation",
+                  "javascript",
+                  "javascript-library",
+                  "matrix",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -172,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dancing using JavaScript - Canvas HTML5 Feature",
+                "homepage": "http://raphamorim.io/just-canvas",
                 "id": 29537425,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-05-30T18:01:54Z",
+                "open_issues": 2,
                 "owner": "raphamorim",
                 "repo": "just-canvas",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -188,12 +284,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drawing a star-filled sky with time-lapse effect using canvas.",
+                "homepage": null,
                 "id": 132382397,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-17T05:02:36Z",
+                "open_issues": 0,
                 "owner": "fralonra",
                 "repo": "star-time-lapse",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "canvas",
+                  "html5",
+                  "time-lapse"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             }
@@ -217,12 +322,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+                "homepage": "https://d3js.org",
                 "id": 943149,
                 "language": "Shell",
+                "license": "ISC",
                 "last_commit": "2026-05-28T14:43:01Z",
+                "open_issues": 20,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113573
+                "stars": 113574,
+                "topics": [
+                  "chart",
+                  "charts",
+                  "d3",
+                  "data-visualization",
+                  "svg",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -233,12 +350,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTML5 Charts using the <canvas> tag",
+                "homepage": "https://www.chartjs.org/",
                 "id": 8843683,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
+                "open_issues": 584,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67669
+                "stars": 67670,
+                "topics": [
+                  "canvas",
+                  "chart",
+                  "graph",
+                  "html5",
+                  "html5-charts",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -249,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",
+                "homepage": "http://paperjs.org",
                 "id": 1338813,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T00:58:54Z",
+                "open_issues": 429,
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15070
+                "stars": 15072,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -265,12 +399,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
+                "homepage": "http://konvajs.org/",
                 "id": 29011477,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T22:58:21Z",
+                "open_issues": 1,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14725
+                "stars": 14727,
+                "topics": [
+                  "animation",
+                  "canvas",
+                  "drag-and-drop",
+                  "graphics",
+                  "javascript",
+                  "konva",
+                  "node-canvas",
+                  "shape"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -281,12 +429,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+                "homepage": "https://zzz.dog",
                 "id": 174164624,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-18T21:43:53Z",
+                "open_issues": 55,
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10650
+                "stars": 10650,
+                "topics": [
+                  "3d",
+                  "canvas",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -297,12 +454,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight graphic library providing 2d draw for Apache ECharts",
+                "homepage": "https://ecomfe.github.io/zrender-doc/public/",
                 "id": 9185758,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-07T18:07:07Z",
+                "open_issues": 373,
                 "owner": "ecomfe",
                 "repo": "zrender",
-                "stars": 6304
+                "stars": 6304,
+                "topics": [
+                  "2d",
+                  "canvas",
+                  "html5",
+                  "svg",
+                  "vector-graphics"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -313,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-Platform JavaScript Creative Coding Framework",
+                "homepage": null,
                 "id": 4967590,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-16T03:41:59Z",
+                "open_issues": 38,
                 "owner": "soulwire",
                 "repo": "sketch.js",
-                "stars": 4122
+                "stars": 4122,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -329,12 +502,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript particle animation library",
+                "homepage": "https://drawcall.github.io/Proton/",
                 "id": 11303194,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-06T08:19:03Z",
+                "open_issues": 17,
                 "owner": "drawcall",
                 "repo": "Proton",
-                "stars": 2478
+                "stars": 2478,
+                "topics": [
+                  "canvas",
+                  "js-particle",
+                  "particle",
+                  "particle-engine",
+                  "particle-system",
+                  "particles",
+                  "particles-library",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -345,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Javascript implementation of Fortune's algorithm to compute Voronoi cells",
+                "homepage": "http://www.raymondhill.net/voronoi/",
                 "id": 1755694,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-25T04:39:19Z",
+                "open_issues": 15,
                 "owner": "gorhill",
                 "repo": "Javascript-Voronoi",
-                "stars": 1060
+                "stars": 1060,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -361,12 +553,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Powerful and Lightweight Library to create using HTML5 Canvas",
+                "homepage": "https://raphamorim.io/origamijs/",
                 "id": 41897757,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-30T06:54:39Z",
+                "open_issues": 20,
                 "owner": "raphamorim",
                 "repo": "origami.js",
-                "stars": 764
+                "stars": 764,
+                "topics": [
+                  "animation",
+                  "animation-engine",
+                  "canary",
+                  "canvas",
+                  "canvas-game",
+                  "css",
+                  "html5-canvas",
+                  "javascript",
+                  "origami"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -377,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iio Engine: A JavaScript game engine for HTML5 Canvas",
+                "homepage": "http://iioengine.com",
                 "id": 9337681,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-06T02:10:25Z",
+                "open_issues": 0,
                 "owner": "sbiermanlytle",
                 "repo": "iioEngine",
-                "stars": 458
+                "stars": 458,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -393,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HTML5 canvas charts driven by HTML table elements",
+                "homepage": null,
                 "id": 1123725,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-29T19:45:47Z",
+                "open_issues": 2,
                 "owner": "filamentgroup",
                 "repo": "jQuery-Visualize",
-                "stars": 349
+                "stars": 349,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -409,12 +626,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "textmode.js is a lightweight creative coding library for creating real-time ASCII art on the web.",
+                "homepage": "https://code.textmode.art",
                 "id": 1019649473,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T23:09:21Z",
+                "open_issues": 0,
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
-                "stars": 160
+                "stars": 161,
+                "topics": [
+                  "art",
+                  "ascii",
+                  "canvas",
+                  "creative-coding",
+                  "design",
+                  "graphics",
+                  "petscii",
+                  "textmode",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             }
@@ -432,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance <canvas> rendering for React components",
+                "homepage": null,
                 "id": 30384844,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-27T06:00:42Z",
+                "open_issues": 79,
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13198
+                "stars": 13198,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             }
@@ -461,12 +698,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript 3D Library.",
+                "homepage": "https://threejs.org/",
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T02:46:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:55:40Z",
+                "open_issues": 380,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114865
+                "stars": 114904,
+                "topics": [
+                  "3d",
+                  "augmented-reality",
+                  "canvas",
+                  "html5",
+                  "javascript",
+                  "svg",
+                  "virtual-reality",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -477,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-Platform JavaScript Creative Coding Framework",
+                "homepage": null,
                 "id": 4967590,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-16T03:41:59Z",
+                "open_issues": 38,
                 "owner": "soulwire",
                 "repo": "sketch.js",
-                "stars": 4122
+                "stars": 4122,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             },
@@ -493,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of the Processing visualization language to JavaScript.",
+                "homepage": "http://processingjs.org/",
                 "id": 16287,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2018-12-04T22:20:56Z",
+                "open_issues": 2,
                 "owner": "jeresig",
                 "repo": "processing-js",
-                "stars": 1688
+                "stars": 1688,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
             }
@@ -512,15 +777,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:18.453Z",
+    "last_updated": "2026-08-29T04:08:57.194Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+      "homepage": null,
       "id": 28413081,
       "language": "Markdown",
+      "license": "MIT",
       "last_commit": "2026-06-14T09:29:51Z",
+      "open_issues": 13,
       "owner": "raphamorim",
       "repo": "awesome-canvas",
-      "stars": 1861
+      "stars": 1861,
+      "topics": [
+        "awesome",
+        "awesome-canvas",
+        "awesome-list",
+        "canvas-element",
+        "canvas2d",
+        "draw-graphics",
+        "html5-canvas",
+        "javascript",
+        "particles"
+      ]
     },
     "original_repository_sha": "28390e0f2f200bfef5d810d0b34df6fe175a261e",
     "enhanced_repository": "enhansome/enhansome-canvas",
