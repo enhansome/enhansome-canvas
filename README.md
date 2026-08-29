@@ -1,8 +1,8 @@
 # Awesome Canvas with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,889 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,807 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
 
 ## Contributing
 
