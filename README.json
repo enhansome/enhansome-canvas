@@ -63,7 +63,7 @@
                 "open_issues": 17,
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": [
                   "canvas",
                   "canvas-api",
@@ -356,10 +356,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
-                "open_issues": 584,
+                "open_issues": 585,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67670,
+                "stars": 67674,
                 "topics": [
                   "canvas",
                   "chart",
@@ -408,7 +408,7 @@
                 "open_issues": 1,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14727,
+                "stars": 14730,
                 "topics": [
                   "animation",
                   "canvas",
@@ -635,7 +635,7 @@
                 "open_issues": 0,
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "art",
                   "ascii",
@@ -703,11 +703,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:55:40Z",
-                "open_issues": 380,
+                "last_commit": "2026-08-30T00:11:36Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114904,
+                "stars": 114925,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:00.342Z",
+    "last_updated": "2026-08-30T01:14:22.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
