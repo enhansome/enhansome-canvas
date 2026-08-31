@@ -17,11 +17,11 @@
                 "id": 238514517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-13T07:05:44Z",
-                "open_issues": 22,
+                "last_commit": "2026-08-31T00:28:49Z",
+                "open_issues": 20,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8972,
+                "stars": 8974,
                 "topics": [
                   "2d",
                   "angular",
@@ -331,7 +331,7 @@
                 "open_issues": 20,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113574,
+                "stars": 113582,
                 "topics": [
                   "chart",
                   "charts",
@@ -356,10 +356,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
-                "open_issues": 585,
+                "open_issues": 586,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67674,
+                "stars": 67677,
                 "topics": [
                   "canvas",
                   "chart",
@@ -408,7 +408,7 @@
                 "open_issues": 1,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14730,
+                "stars": 14732,
                 "topics": [
                   "animation",
                   "canvas",
@@ -631,7 +631,7 @@
                 "id": 1019649473,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-25T23:09:21Z",
+                "last_commit": "2026-08-30T07:08:33Z",
                 "open_issues": 0,
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
@@ -703,11 +703,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T00:11:36Z",
-                "open_issues": 377,
+                "last_commit": "2026-08-30T18:10:58Z",
+                "open_issues": 376,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114925,
+                "stars": 114948,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:14:22.560Z",
+    "last_updated": "2026-08-31T01:21:51.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
@@ -789,7 +789,7 @@
       "open_issues": 13,
       "owner": "raphamorim",
       "repo": "awesome-canvas",
-      "stars": 1861,
+      "stars": 1862,
       "topics": [
         "awesome",
         "awesome-canvas",
