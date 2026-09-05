@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8973,
+                "stars": 8976,
                 "topics": [
                   "2d",
                   "angular",
@@ -331,7 +331,7 @@
                 "open_issues": 20,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113614,
+                "stars": 113627,
                 "topics": [
                   "chart",
                   "charts",
@@ -359,7 +359,7 @@
                 "open_issues": 588,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67678,
+                "stars": 67685,
                 "topics": [
                   "canvas",
                   "chart",
@@ -384,7 +384,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-23T00:58:54Z",
-                "open_issues": 429,
+                "open_issues": 430,
                 "owner": "paperjs",
                 "repo": "paper.js",
                 "stars": 15072,
@@ -399,25 +399,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
-                "homepage": "http://konvajs.org/",
+                "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.",
+                "homepage": "https://konvajs.org/",
                 "id": 29011477,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:34:12Z",
+                "last_commit": "2026-09-04T16:58:23Z",
                 "open_issues": 0,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14748,
+                "stars": 14755,
                 "topics": [
                   "animation",
                   "canvas",
+                  "canvas-editor",
+                  "design-editor",
                   "drag-and-drop",
                   "graphics",
+                  "html5-canvas",
                   "javascript",
                   "konva",
                   "node-canvas",
-                  "shape"
+                  "shape",
+                  "whiteboard"
                 ]
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -673,7 +677,7 @@
                 "open_issues": 79,
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13200,
+                "stars": 13199,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -703,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:34:50Z",
-                "open_issues": 382,
+                "last_commit": "2026-09-04T16:14:38Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 115085,
+                "stars": 115120,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -777,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:57:48.918Z",
+    "last_updated": "2026-09-05T00:55:58.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
