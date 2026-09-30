@@ -1,8 +1,8 @@
 # Awesome Canvas with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,036 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,481 | 🐛 106 | 📅 2026-09-02
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 323,876 | 🐛 19 | 🌐 Python | 📅 2026-09-28.
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,112 | 🐛 20 | 🌐 Python | 📅 2026-09-29.
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 *Some good examples about creation with canvas.*
 
-* [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,983 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-28 particles animations samples
+* [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,983 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-29 particles animations samples
 * [PixelCraft](https://github.com/rgab1508/PixelCraft) ⭐ 1,524 | 🐛 17 | 🌐 JavaScript | 📅 2025-03-16 • A pixel-art editor made using canvas
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code](https://github.com/ramesaliyev/trigonoparty) ⭐ 500 | 🐛 6 | 🌐 JavaScript | 📅 2020-01-14] • Simple trigonometry visualisation.
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html) ⭐ 213 | 🐛 0 | 🌐 HTML | 📅 2020-02-22] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
@@ -77,19 +77,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### To draw using canvas
 
-* [d3](https://github.com/d3/d3) ⭐ 113,775 | 🐛 19 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,721 | 🐛 590 | 🌐 JavaScript | 📅 2026-09-14 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
+* [d3](https://github.com/d3/d3) ⭐ 113,784 | 🐛 19 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,728 | 🐛 591 | 🌐 JavaScript | 📅 2026-09-29 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,078 | 🐛 430 | 🌐 JavaScript | 📅 2024-07-23 - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
-* [Konva](https://github.com/konvajs/konva) ⭐ 14,834 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-* [zDog](https://github.com/metafizzy/zdog) ⭐ 10,662 | 🐛 56 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-* [zrender](https://github.com/ecomfe/zrender) ⭐ 6,307 | 🐛 374 | 🌐 TypeScript | 📅 2026-09-06 - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
+* [Konva](https://github.com/konvajs/konva) ⭐ 14,836 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+* [zDog](https://github.com/metafizzy/zdog) ⭐ 10,664 | 🐛 56 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+* [zrender](https://github.com/ecomfe/zrender) ⭐ 6,307 | 🐛 375 | 🌐 TypeScript | 📅 2026-09-06 - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
 * [Sketch](https://github.com/soulwire/sketch.js) ⭐ 4,121 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 - Cross-Platform JavaScript Creative Coding Framework
 * [Proton](https://github.com/a-jie/Proton) ⭐ 2,477 | 🐛 17 | 🌐 JavaScript | 📅 2026-03-06 is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 * [Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) ⚠️ Archived - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
 * [Origami.js](https://github.com/raphamorim/origami.js) ⚠️ Archived - JS Lib to redesign canvas API interface
 * [iio.js](https://github.com/iioinc/iio.js) ⭐ 457 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-06 - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 * [Visualize](https://github.com/filamentgroup/jQuery-Visualize) ⚠️ Archived is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
-* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 171 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-28 is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
+* [textmode.js](https://github.com/humanbydefinition/textmode.js) ⭐ 171 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-29 is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
 * [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 * [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) is Skia's Canvas API compiled to WebAssembly, providing high-performance 2D graphics rendering for web applications.
 * [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
@@ -138,7 +138,7 @@ Where to discover more about Canvas.
 
 ### Twitter
 
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 116,038 | 🐛 381 | 🌐 JavaScript | 📅 2026-09-28
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 116,070 | 🐛 376 | 🌐 JavaScript | 📅 2026-09-30
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) ⭐ 4,121 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 and actively creating and sharing canvas/WebGL experiments
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) ⭐ 1,687 | 🐛 2 | 🌐 Java | 📅 2018-12-04
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
@@ -171,4 +171,4 @@ The content of this project itself is licensed under the [Creative Commons Attri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
