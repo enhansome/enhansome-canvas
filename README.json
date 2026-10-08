@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8987,
+                "stars": 8989,
                 "topics": [
                   "2d",
                   "angular",
@@ -331,7 +331,7 @@
                 "open_issues": 19,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113812,
+                "stars": 113813,
                 "topics": [
                   "chart",
                   "charts",
@@ -356,10 +356,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T13:05:36Z",
-                "open_issues": 595,
+                "open_issues": 596,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67733,
+                "stars": 67734,
                 "topics": [
                   "canvas",
                   "chart",
@@ -404,11 +404,11 @@
                 "id": 29011477,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T15:41:36Z",
+                "last_commit": "2026-10-07T15:58:11Z",
                 "open_issues": 1,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14853,
+                "stars": 14856,
                 "topics": [
                   "animation",
                   "canvas",
@@ -494,7 +494,7 @@
                 "open_issues": 38,
                 "owner": "soulwire",
                 "repo": "sketch.js",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -677,7 +677,7 @@
                 "open_issues": 79,
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13195,
+                "stars": 13196,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T23:38:29Z",
-                "open_issues": 396,
+                "last_commit": "2026-10-08T02:36:25Z",
+                "open_issues": 409,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116295,
+                "stars": 116329,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -745,7 +745,7 @@
                 "open_issues": 38,
                 "owner": "soulwire",
                 "repo": "sketch.js",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:21:14.529Z",
+    "last_updated": "2026-10-08T02:41:11.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
@@ -793,7 +793,7 @@
       "open_issues": 19,
       "owner": "raphamorim",
       "repo": "awesome-canvas",
-      "stars": 1864,
+      "stars": 1865,
       "topics": [
         "awesome",
         "awesome-canvas",
