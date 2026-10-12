@@ -331,7 +331,7 @@
                 "open_issues": 19,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113727,
+                "stars": 113734,
                 "topics": [
                   "chart",
                   "charts",
@@ -356,7 +356,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T13:05:36Z",
-                "open_issues": 602,
+                "open_issues": 601,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67732,
@@ -408,7 +408,7 @@
                 "open_issues": 2,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14858,
+                "stars": 14859,
                 "topics": [
                   "animation",
                   "canvas",
@@ -677,7 +677,7 @@
                 "open_issues": 79,
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13195,
+                "stars": 13194,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T01:34:30Z",
-                "open_issues": 403,
+                "last_commit": "2026-10-11T21:52:02Z",
+                "open_issues": 401,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116214,
+                "stars": 116251,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:50:32.309Z",
+    "last_updated": "2026-10-12T02:21:36.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
