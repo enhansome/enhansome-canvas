@@ -17,11 +17,11 @@
                 "id": 238514517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T23:21:18Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-14T01:21:14Z",
+                "open_issues": 25,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8994,
+                "stars": 8992,
                 "topics": [
                   "2d",
                   "angular",
@@ -95,7 +95,7 @@
                 "open_issues": 6,
                 "owner": "ramesaliyev",
                 "repo": "trigonoparty",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "trigonometry",
                   "trigonometry-visualisation"
@@ -328,10 +328,10 @@
                 "language": "Shell",
                 "license": "ISC",
                 "last_commit": "2026-05-28T14:43:01Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113739,
+                "stars": 113747,
                 "topics": [
                   "chart",
                   "charts",
@@ -356,10 +356,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T13:05:36Z",
-                "open_issues": 602,
+                "open_issues": 603,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67734,
+                "stars": 67733,
                 "topics": [
                   "canvas",
                   "chart",
@@ -408,7 +408,7 @@
                 "open_issues": 2,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14862,
+                "stars": 14867,
                 "topics": [
                   "animation",
                   "canvas",
@@ -467,7 +467,7 @@
                 "open_issues": 378,
                 "owner": "ecomfe",
                 "repo": "zrender",
-                "stars": 6309,
+                "stars": 6308,
                 "topics": [
                   "2d",
                   "canvas",
@@ -566,7 +566,7 @@
                 "open_issues": 20,
                 "owner": "raphamorim",
                 "repo": "origami.js",
-                "stars": 761,
+                "stars": 762,
                 "topics": [
                   "animation",
                   "animation-engine",
@@ -677,7 +677,7 @@
                 "open_issues": 79,
                 "owner": "Flipboard",
                 "repo": "react-canvas",
-                "stars": 13194,
+                "stars": 13195,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T01:13:40Z",
-                "open_issues": 400,
+                "last_commit": "2026-10-14T01:35:42Z",
+                "open_issues": 397,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116320,
+                "stars": 116363,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:31:26.525Z",
+    "last_updated": "2026-10-14T01:53:12.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
@@ -790,10 +790,10 @@
       "language": "Markdown",
       "license": "MIT",
       "last_commit": "2026-06-14T09:29:51Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "raphamorim",
       "repo": "awesome-canvas",
-      "stars": 1866,
+      "stars": 1867,
       "topics": [
         "awesome",
         "awesome-canvas",
