@@ -1,8 +1,8 @@
 # Awesome Canvas with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,019 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,510 | 🐛 105 | 📅 2026-09-02
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 327,976 | 🐛 22 | 🌐 Python | 📅 2026-10-16.
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,228 | 🐛 21 | 🌐 Python | 📅 2026-10-17.
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 *Some good examples about creation with canvas.*
 
-* [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,991 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-16 particles animations samples
+* [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,993 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-16 particles animations samples
 * [PixelCraft](https://github.com/rgab1508/PixelCraft) ⭐ 1,526 | 🐛 17 | 🌐 JavaScript | 📅 2025-03-16 • A pixel-art editor made using canvas
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code](https://github.com/ramesaliyev/trigonoparty) ⭐ 500 | 🐛 6 | 🌐 JavaScript | 📅 2020-01-14] • Simple trigonometry visualisation.
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html) ⭐ 213 | 🐛 0 | 🌐 HTML | 📅 2020-02-22] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
@@ -77,8 +77,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### To draw using canvas
 
-* [d3](https://github.com/d3/d3) ⭐ 113,761 | 🐛 21 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,744 | 🐛 609 | 🌐 JavaScript | 📅 2026-10-04 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
+* [d3](https://github.com/d3/d3) ⭐ 113,767 | 🐛 21 | 🌐 Shell | 📅 2026-05-28 (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,745 | 🐛 610 | 🌐 JavaScript | 📅 2026-10-04 is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,087 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23 - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [Konva](https://github.com/konvajs/konva) ⭐ 14,870 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 * [zDog](https://github.com/metafizzy/zdog) ⭐ 10,672 | 🐛 55 | 🌐 JavaScript | 📅 2023-07-18 - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
@@ -138,7 +138,7 @@ Where to discover more about Canvas.
 
 ### Twitter
 
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 116,509 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-17
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js) ⭐ 116,550 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-17
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) ⭐ 4,122 | 🐛 38 | 🌐 JavaScript | 📅 2023-09-16 and actively creating and sharing canvas/WebGL experiments
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js) ⭐ 1,687 | 🐛 2 | 🌐 Java | 📅 2018-12-04
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
@@ -171,4 +171,4 @@ The content of this project itself is licensed under the [Creative Commons Attri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

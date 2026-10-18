@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8991,
+                "stars": 8993,
                 "topics": [
                   "2d",
                   "angular",
@@ -331,7 +331,7 @@
                 "open_issues": 21,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113761,
+                "stars": 113767,
                 "topics": [
                   "chart",
                   "charts",
@@ -356,10 +356,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T13:05:36Z",
-                "open_issues": 609,
+                "open_issues": 610,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67744,
+                "stars": 67745,
                 "topics": [
                   "canvas",
                   "chart",
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T00:49:41Z",
+                "last_commit": "2026-10-17T16:28:33Z",
                 "open_issues": 392,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116509,
+                "stars": 116550,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:17:13.153Z",
+    "last_updated": "2026-10-18T01:00:04.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
