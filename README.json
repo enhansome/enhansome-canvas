@@ -17,11 +17,11 @@
                 "id": 238514517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T00:06:49Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-02T19:53:35Z",
+                "open_issues": 22,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 9066,
+                "stars": 9069,
                 "topics": [
                   "2d",
                   "angular",
@@ -63,7 +63,7 @@
                 "open_issues": 17,
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": [
                   "canvas",
                   "canvas-api",
@@ -245,7 +245,7 @@
                 "open_issues": 0,
                 "owner": "knackstedt",
                 "repo": "matrix-animation",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "animation",
                   "javascript",
@@ -331,7 +331,7 @@
                 "open_issues": 22,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113847,
+                "stars": 113860,
                 "topics": [
                   "chart",
                   "charts",
@@ -359,7 +359,7 @@
                 "open_issues": 632,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67773,
+                "stars": 67774,
                 "topics": [
                   "canvas",
                   "chart",
@@ -387,7 +387,7 @@
                 "open_issues": 24,
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15181,
+                "stars": 15183,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -408,7 +408,7 @@
                 "open_issues": 2,
                 "owner": "konvajs",
                 "repo": "konva",
-                "stars": 14916,
+                "stars": 14911,
                 "topics": [
                   "animation",
                   "canvas",
@@ -442,7 +442,7 @@
                 "open_issues": 55,
                 "owner": "metafizzy",
                 "repo": "zdog",
-                "stars": 10682,
+                "stars": 10683,
                 "topics": [
                   "3d",
                   "canvas",
@@ -635,7 +635,7 @@
                 "id": 1019649473,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T02:54:04Z",
+                "last_commit": "2026-11-02T10:06:05Z",
                 "open_issues": 1,
                 "owner": "humanbydefinition",
                 "repo": "textmode.js",
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T22:26:01Z",
-                "open_issues": 393,
+                "last_commit": "2026-11-03T03:46:17Z",
+                "open_issues": 387,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 117380,
+                "stars": 117454,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:28:16.230Z",
+    "last_updated": "2026-11-03T03:55:18.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
