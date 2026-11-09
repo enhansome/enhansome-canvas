@@ -17,7 +17,7 @@
                 "id": 238514517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:39:23Z",
+                "last_commit": "2026-11-09T00:46:55Z",
                 "open_issues": 21,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
@@ -63,7 +63,7 @@
                 "open_issues": 17,
                 "owner": "rgab1508",
                 "repo": "PixelCraft",
-                "stars": 1534,
+                "stars": 1535,
                 "topics": [
                   "canvas",
                   "canvas-api",
@@ -331,7 +331,7 @@
                 "open_issues": 21,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113879,
+                "stars": 113886,
                 "topics": [
                   "chart",
                   "charts",
@@ -355,11 +355,11 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T11:47:55Z",
-                "open_issues": 639,
+                "last_commit": "2026-11-09T02:22:25Z",
+                "open_issues": 646,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67778,
+                "stars": 67782,
                 "topics": [
                   "canvas",
                   "chart",
@@ -387,7 +387,7 @@
                 "open_issues": 27,
                 "owner": "paperjs",
                 "repo": "paper.js",
-                "stars": 15193,
+                "stars": 15194,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:18.453Z"
@@ -593,7 +593,7 @@
                 "id": 9337681,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2018-08-06T02:10:25Z",
+                "last_commit": "2026-11-08T04:57:57Z",
                 "open_issues": 0,
                 "owner": "sbiermanlytle",
                 "repo": "iioEngine",
@@ -707,11 +707,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:16:07Z",
-                "open_issues": 405,
+                "last_commit": "2026-11-08T18:42:26Z",
+                "open_issues": 407,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 117830,
+                "stars": 117899,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:25:43.785Z",
+    "last_updated": "2026-11-09T02:38:25.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
